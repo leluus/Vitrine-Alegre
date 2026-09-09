@@ -6,7 +6,7 @@ function Logo() {
     <Link to="/" className="logo">
       <span className="logo__icon">V</span>
       <span className="logo__text">
-        Vitrine <span className="logo__accent">Alegre</span>
+        julia <span className="logo__accent">Alegre</span>
       </span>
     </Link>
   );
