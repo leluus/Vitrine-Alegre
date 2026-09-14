@@ -45,3 +45,9 @@ Foi acrescentado código nos arquivos: `src/components/Header.css`, `src/pages/H
 
 ## Considerações finais
 Mesmo sendo bastante demorado fazer isso, mesmo utiliando IA, eu achei uma maneira boa de desenvolver, pois voce precisa saber o que esta fazendo, a IA te fala o que fazer mas voce precisa saber como fazer. No começo eu demorei um pouco pra conseguir me expressar, mas depois foi bem fácil.
+
+
+##  Link do repositório GitHub
+`https://github.com/leluus/Vitrine-Alegre.git`
+
+> link do site hospedado pela vercel: `https://vitrine-alegre-07010.vercel.app/`
