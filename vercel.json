@@ -1,0 +1,10 @@
+{
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/index.html"
+      }
+    ]
+  }git add vercel.json
+  git commit -m "Corrige rotas da Vercel"
+  git push
